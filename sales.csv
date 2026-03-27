@@ -1,0 +1,10 @@
+date,product,category,price,quantity,customer
+2026-01-01,Notebook,Electronics,1200,1,Jessica
+2026-01-02,Mouse,Electronics,25,2,Ana
+2026-01-03,Keyboard,Electronics,75,1,Jessica
+2026-02-01,Headphones,Electronics,150,1,Lucas
+2026-02-05,Notebook,Electronics,1200,1,Ana
+2026-03-01,Chair,Furniture,300,1,Maria
+2026-03-03,Desk,Furniture,500,1,Jessica
+2026-03-10,Mouse,Electronics,25,3,Lucas
+2026-03-15,Monitor,Electronics,400,1,Ana
