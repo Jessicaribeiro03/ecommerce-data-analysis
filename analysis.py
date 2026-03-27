@@ -28,3 +28,11 @@ plt.title("Sales by Month")
 plt.xlabel("Month")
 plt.ylabel("Revenue")
 plt.show()
+
+top_products.plot(kind="bar")
+plt.title("Top Products by Revenue")
+plt.show()
+
+# Top customers
+top_customers = df.groupby("customer")["total"].sum().sort_values(ascending=False)
+print("\nTop Customers:\n", top_customers)
